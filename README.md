@@ -1,4 +1,5 @@
-# Excel-Bike-Sale-Dashboard
-The customer info dataset was analyzed on various factors like their income, age bracket, gender, and marital status to visualize the trend in the purchase of bikes.
+Excel Bike Sales Dashboard
+# Business Task:
+We have sales data of a bike company and need to establish a dashboard to figure out some information about bike sales. However, we need to clean data first before performing calculation and establish pivot tables and charts.
 
-Advanced Excel functions were used to create an interactive dashboard for the sales record.
+# Final Result:
