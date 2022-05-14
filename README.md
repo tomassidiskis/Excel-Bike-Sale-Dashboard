@@ -8,4 +8,6 @@ We have sales data of a bike company and need to establish a dashboard to figure
 
 
 
+
+
 Access dashboard [here](https://onedrive.live.com/edit.aspx?resid=82C247FF9207D336!1565&ithint=file%2cxlsx)
